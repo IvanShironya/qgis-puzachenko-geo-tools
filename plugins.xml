@@ -31,10 +31,10 @@
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/geojson_converter.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="Discriminant Analysis" version="0.1">
+  <pyqgis_plugin name="Discriminant Analysis" version="2.2">
     <description>Discriminant analysis</description>
-    <version>0.1</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <version>2.2</version>
+    <qgis_minimum_version>3.28</qgis_minimum_version>
     <author>I. Shironya</author>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>lda.zip</file_name>
@@ -51,10 +51,10 @@
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/multiregression.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="Principal Component Analysis" version="0.2">
+  <pyqgis_plugin name="Principal Component Analysis" version="2.2">
     <description>Principal component analysis</description>
-    <version>0.2</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <version>2.2</version>
+    <qgis_minimum_version>3.28</qgis_minimum_version>
     <author>I. Shironya</author>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>pca.zip</file_name>
