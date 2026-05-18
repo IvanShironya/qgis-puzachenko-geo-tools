@@ -3,7 +3,6 @@
 
   <pyqgis_plugin name="Dichotomous k-means Classification" version="1.0">
     <description>The plugin performs dichotomous k-means classification of a multidimensional raster image based on a user-specified metric and number of clustering levels.</description>
-    <version>1.0</version>
     <qgis_minimum_version>3.40</qgis_minimum_version>
     <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
@@ -13,7 +12,6 @@
 
   <pyqgis_plugin name="Fourier Transform" version="1.1">
     <description>Fourier transform on 3D geospatial data</description>
-    <version>1.1</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
@@ -23,7 +21,6 @@
 
   <pyqgis_plugin name="Shapefile To GeoJSON Converter" version="1.2">
     <description>Shapefile To GeoJSON Converter</description>
-    <version>1.2</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <author_name>I.Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
@@ -33,7 +30,6 @@
 
   <pyqgis_plugin name="Discriminant Analysis" version="2.2">
     <description>Discriminant analysis</description>
-    <version>2.2</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
@@ -43,7 +39,6 @@
 
   <pyqgis_plugin name="Multiregression Analysis" version="0.1">
     <description>Multiregression Analysis of Raster Data</description>
-    <version>0.1</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <author_name>Ivan Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
@@ -53,7 +48,6 @@
 
   <pyqgis_plugin name="Principal Component Analysis" version="2.2">
     <description>Principal component analysis</description>
-    <version>2.2</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
@@ -63,7 +57,6 @@
 
   <pyqgis_plugin name="LandsatEntropy" version="3.0">
     <description>GEE-powered plugin for advanced Landsat thermodynamic and entropy analysis</description>
-    <version>3.0</version>
     <qgis_minimum_version>3.40</qgis_minimum_version>
     <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
@@ -73,7 +66,6 @@
 
   <pyqgis_plugin name="Calc Tsallis Q (MODIS)" version="0.2">
     <description>Tsallis entropy tuning q-parameter (MODIS)</description>
-    <version>0.2</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
