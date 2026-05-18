@@ -61,10 +61,10 @@
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/pca.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="Calc Tsallis Q" version="2.1">
-    <description>Tsallis entropy tuning q-parameter</description>
-    <version>2.1</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
+  <pyqgis_plugin name="LandsatEntropy" version="3.0">
+    <description>GEE-powered plugin for advanced Landsat thermodynamic and entropy analysis</description>
+    <version>3.0</version>
+    <qgis_minimum_version>3.40</qgis_minimum_version>
     <author>I. Shironya</author>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>q_calc.zip</file_name>
