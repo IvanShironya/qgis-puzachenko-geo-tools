@@ -5,7 +5,7 @@
     <description>The plugin performs dichotomous k-means classification of a multidimensional raster image based on a user-specified metric and number of clustering levels.</description>
     <version>1.0</version>
     <qgis_minimum_version>3.40</qgis_minimum_version>
-    <author>I. Shironya</author>
+    <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>dichotomous_classification.zip</file_name>
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/dichotomous_classification.zip</download_url>
@@ -15,7 +15,7 @@
     <description>Fourier transform on 3D geospatial data</description>
     <version>1.1</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author>I. Shironya</author>
+    <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>fourier_transform.zip</file_name>
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/fourier_transform.zip</download_url>
@@ -25,7 +25,7 @@
     <description>Shapefile To GeoJSON Converter</description>
     <version>1.2</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
-    <author>I.Shironya</author>
+    <author_name>I.Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>geojson_converter.zip</file_name>
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/geojson_converter.zip</download_url>
@@ -35,7 +35,7 @@
     <description>Discriminant analysis</description>
     <version>2.2</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
-    <author>I. Shironya</author>
+    <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>lda.zip</file_name>
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/lda.zip</download_url>
@@ -45,7 +45,7 @@
     <description>Multiregression Analysis of Raster Data</description>
     <version>0.1</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
-    <author>Ivan Shironya</author>
+    <author_name>Ivan Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>multiregression.zip</file_name>
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/multiregression.zip</download_url>
@@ -55,7 +55,7 @@
     <description>Principal component analysis</description>
     <version>2.2</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
-    <author>I. Shironya</author>
+    <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>pca.zip</file_name>
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/pca.zip</download_url>
@@ -65,7 +65,7 @@
     <description>GEE-powered plugin for advanced Landsat thermodynamic and entropy analysis</description>
     <version>3.0</version>
     <qgis_minimum_version>3.40</qgis_minimum_version>
-    <author>I. Shironya</author>
+    <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>q_calc.zip</file_name>
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/q_calc.zip</download_url>
@@ -75,7 +75,7 @@
     <description>Tsallis entropy tuning q-parameter (MODIS)</description>
     <version>0.2</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author>I. Shironya</author>
+    <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
     <file_name>q_calc_modis.zip</file_name>
     <download_url>https://IvanShironya.github.io/qgis-puzachenko-geo-tools/q_calc_modis.zip</download_url>
