@@ -57,6 +57,7 @@
 
   <pyqgis_plugin name="LandsatEntropy" version="3.0">
     <description>GEE-powered plugin for advanced Landsat thermodynamic and entropy analysis</description>
+	<about>LandsatEntropy is a powerful analytical tool designed for advanced processing of Landsat satellite imagery using the Google Earth Engine (GEE) Python API. The plugin provides a seamless bridge between QGIS and GEE, enabling high-performance cloud computing for thermodynamic variables and entropy analysis.</about>
     <qgis_minimum_version>3.40</qgis_minimum_version>
     <author_name>I. Shironya</author_name>
     <homepage>https://github.com/IvanShironya/qgis-puzachenko-geo-tools</homepage>
