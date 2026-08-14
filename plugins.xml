@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <plugins>
 
-  <pyqgis_plugin name="Dichotomous k-means Classification" version="1.0">
+  <pyqgis_plugin name="Dichotomous k-means Classification" version="1.1">
     <description>The plugin performs dichotomous k-means classification of a multidimensional raster image based on a user-specified metric and number of clustering levels.</description>
     <qgis_minimum_version>3.40</qgis_minimum_version>
     <author_name>I. Shironya</author_name>
